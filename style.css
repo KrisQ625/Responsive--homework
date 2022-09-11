@@ -101,7 +101,21 @@ p {
 }
 @media (max-width:576px) {
   h2{
+  text-align: center;
+  font-size:32px;}
+.primary-link{
+    display: block;
     text-align: center;
-  }
-  
 }
+    h1{
+      text-align: center;
+      font-size: 43px;
+    }
+.email-link{
+  font-size: 20px;
+}
+.about-me{
+  font-size: 43px;
+}
+
+ }
