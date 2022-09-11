@@ -99,3 +99,9 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+@media (max-width:576px) {
+  h2{
+    text-align: center;
+  }
+  
+}
