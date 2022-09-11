@@ -118,5 +118,7 @@ p {
 .about-me{
   font-size: 43px;
 }
-
+p{
+  text-align: center;
+}
  }
